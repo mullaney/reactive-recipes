@@ -4,6 +4,8 @@ div.recipe-card {
   background: white;
   box-shadow: 2px 2px 9px gray;
   margin: 1rem;
+  min-width: 240px;
+  max-width: 320px;
 }
 
 h2, h3 {
